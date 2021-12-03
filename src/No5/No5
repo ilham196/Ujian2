@@ -1,0 +1,6 @@
+Nomor 5 
+a. Salah, return hanya berfungsi untuk mengembalikkan nilai. Jadi tidak diwajibkan untuk menggunakan return di tiap methodnya.
+b. Benar, jika tidak meminta parameter dari pemanggilnya bagaimana user dapat menggunakan function tersebut.
+c. Benar, karena parameter dan tipe data harus saling terkoordinasi.
+d. Salah, untuk sebuah method dapat memiliki lebih dari 1 parameter itu tidak boleh. namun untuk variabel dapat dilakukan.
+e. Benar, selama return tersebut mengembalikan value variabel yang ada di method tersebut.
